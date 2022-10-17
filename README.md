@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-如你所见，这个是一个个人简介
-但现在啥都没有(～￣▽￣)～
+如你所见，这个是一个个人简介，但现在啥都没有(～￣▽￣)～
